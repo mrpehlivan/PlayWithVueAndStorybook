@@ -1,4 +1,4 @@
-# play-with-vue-and-storybook
+# Play With Vue And Storybook.js
 
 ## Project setup
 ```
